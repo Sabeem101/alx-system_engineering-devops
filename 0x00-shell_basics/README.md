@@ -7,3 +7,4 @@
 6-firstdirectory: creates a directory named 'my first directory' in the 'tmp' directory
 7-movethatfile: Move the file betty from /tmp/ to /tmp/my first directory
 8-firstdelete: delete the file betty
+9-firstdirdeletion: deletes the directory 'my first directory'
