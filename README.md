@@ -1,4 +1,4 @@
-Shell enginnering devops:
+Shell engineering devops:
 	- Shell: Basics.
 	- Shell: Permissions.
 	- Shell: Redirections.
