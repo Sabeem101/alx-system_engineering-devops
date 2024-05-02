@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# It displays "Best School" 10 times.
+# But "Hi" on a new line after the 9th iteration.
+
+c=0
+
+while [ $c -lt 10 ]
+do
+	if [ $c -eq 9 ]
+	then
+		echo "Hi"
+	fi
+	echo "Best School"
+	(( c++ ))
+done
