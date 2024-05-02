@@ -1,2 +1,2 @@
-Shell enginnering devops:
+Shell engineering devops:
 	- Loops, conditions and parsing.
