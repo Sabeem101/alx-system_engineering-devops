@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# It displays the clock time:
+# Hours from O to 12.
+# Minutes from 1 to 59.
+
+hrs=0
+
+while [ $hrs -le 12 ]
+do
+	mins=1
+	echo "Hour: $hrs"
+	while [ $mins -le 59 ]
+	do
+		echo $mins
+		((mins++))
+	done
+	((hrs++))
+done
