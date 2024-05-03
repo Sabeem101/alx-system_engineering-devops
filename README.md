@@ -1,6 +1,7 @@
 Shell engineering devops:
-	- Shell: Basics.
-	- Shell: Permissions.
-	- Shell: Redirections.
-	- Shell: Variables expansions.
-	- Shell: Loops, conditions and parsing.
+	- Basics.
+	- Permissions.
+	- Redirections.
+	- Variables expansions.
+	- Loops, conditions and parsing.
+	- Processes and signals.
