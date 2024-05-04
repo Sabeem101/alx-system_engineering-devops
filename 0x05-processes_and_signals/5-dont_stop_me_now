@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Stops the print of To infinity and beyond, indefinitely.
+
+fname="4-to_infinity_and_beyond"
+pid=$(pgrep -f "$fname")
+
+if [ -n "$pid" ]
+then
+	kill "$pid"
+fi
