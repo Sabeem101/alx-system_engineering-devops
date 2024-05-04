@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Stops the 'Highlander' process.
+
+fname="7-highlander"
+pkill -f $fname
