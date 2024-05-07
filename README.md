@@ -5,3 +5,4 @@ Shell engineering devops:
 	- Variables expansions.
 	- Loops, conditions and parsing.
 	- Processes and signals.
+	- Regular expressions.
