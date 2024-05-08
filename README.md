@@ -6,3 +6,4 @@ Shell engineering devops:
 	- Loops, conditions and parsing.
 	- Processes and signals.
 	- Regular expressions.
+	- Networking basics.
