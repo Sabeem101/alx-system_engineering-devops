@@ -7,3 +7,4 @@ Shell engineering devops:
 	- Processes and signals.
 	- Regular expressions.
 	- Networking basics.
+	- Networking basics #1.
