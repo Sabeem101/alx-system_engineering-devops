@@ -8,3 +8,4 @@ Shell engineering devops:
 	- Regular expressions.
 	- Networking basics.
 	- Networking basics #1.
+	- Web infrastructure design.
