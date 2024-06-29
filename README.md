@@ -9,3 +9,5 @@ Shell engineering devops:
 	- Networking basics.
 	- Networking basics #1.
 	- Web infrastructure design.
+	- Configuration management.
+	- Attack is the best defense.
