@@ -11,3 +11,4 @@ Shell engineering devops:
 	- Web infrastructure design.
 	- Configuration management.
 	- Attack is the best defense.
+	- SSH.
