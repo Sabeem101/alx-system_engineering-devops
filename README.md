@@ -13,3 +13,4 @@ Shell engineering devops:
 	- Attack is the best defense.
 	- SSH.
 	- Web server.
+	- Web stack debugging 0.
