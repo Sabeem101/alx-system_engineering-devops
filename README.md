@@ -14,4 +14,5 @@ Shell engineering devops:
 	- SSH.
 	- Web server.
 	- Web stack debugging 0.
+	- Web stack debbuging 1.
 	- Load Balancer.
