@@ -17,6 +17,7 @@ def main():
     todos = f'todos?userId={id}'
     done = f'{todos}&completed=true'
     notDone = f'{todos}&completed=false'
+    userData = requests.get(f'{url}{users}').json()
     Name = userData[0].get("name")
     todosData = requests.get(f'{url}{todos}').json()
     todosDone = requests.get(f'{url}{done}').json()
